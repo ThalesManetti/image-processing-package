@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Thales Gazola Manetti
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
